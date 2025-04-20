@@ -1,3 +1,4 @@
+import traceback
 import streamlit as st
 import pandas as pd
 from recommendation import recommend_assessments
@@ -32,4 +33,5 @@ if st.button("Get Recommendations"):
                     df = pd.DataFrame(results)
                     st.markdown(df.to_markdown(index=False), unsafe_allow_html=True)
             except Exception as e:
-                st.error(f"Error: {e}")
+                st.error("An error occurred:")
+                st.code(traceback.format_exc())

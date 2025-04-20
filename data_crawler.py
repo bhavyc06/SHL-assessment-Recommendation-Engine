@@ -1,100 +1,99 @@
-import os
-import time
-import json
-import requests
+import os, time, json, requests
 from bs4 import BeautifulSoup
 
 def crawl_assessments():
-    # ensure the data folder exists
     os.makedirs("data", exist_ok=True)
-
     assessments = []
 
-    # Loop pages 1–32
+    # 1) Loop pages 1–32
     for page in range(1, 33):
         url = f"https://www.shl.com/solutions/products/product-catalog/?page={page}&type=1"
-        resp = requests.get(url)
-        resp.raise_for_status()
+        resp = requests.get(url); resp.raise_for_status()
         soup = BeautifulSoup(resp.text, "html.parser")
 
-        # Find the “Individual Test Solutions” table
+        # find the table whose first <th> is "Individual Test Solutions"
+        tables = soup.find_all("table")
         table = None
-        for tbl in soup.find_all("table"):
-            prev_text = tbl.find_previous_sibling(text=True)
-            if prev_text and "Individual Test Solutions" in prev_text.strip():
+        for tbl in tables:
+            th = tbl.find("th")
+            if th and th.get_text(strip=True).startswith("Individual Test Solutions"):
                 table = tbl
                 break
-        if table is None and soup.find_all("table"):
-            table = soup.find_all("table")[-1]
-
-        if not table:
-            print(f"Page {page}: ❌ no table found, skipping")
+        # fallback: if no such table, assume the second one
+        if table is None and len(tables) >= 2:
+            table = tables[1]
+        if table is None:
+            print(f"Page {page}: no suitable table, skipping")
             continue
 
-        rows = table.find_all("tr")
-        if len(rows) <= 1:
-            print(f"Page {page}: no entries found, stopping pagination.")
+        rows = table.find_all("tr")[1:]  # skip header
+        if not rows:
+            print(f"Page {page}: no rows, stopping pagination")
             break
 
-        # Parse each data row (skip header at index 0)
-        for row in rows[1:]:
+        for row in rows:
             cells = row.find_all("td")
             if len(cells) < 4:
                 continue
-            a_tag = cells[0].find("a", href=True)
-            if not a_tag:
+            a = cells[0].find("a", href=True)
+            if not a:
                 continue
-
-            name = a_tag.get_text(strip=True)
-            link = a_tag["href"]
+            link = a["href"]
             if not link.startswith("http"):
                 link = "https://www.shl.com" + link
 
-            remote   = cells[1].get_text(strip=True) or "No"
-            adaptive = cells[2].get_text(strip=True) or "No"
-            test_type= cells[3].get_text(strip=True)
-
             assessments.append({
-                "name": name,
-                "url": link,
-                "remote": remote,
-                "adaptive": adaptive,
-                "test_type": test_type
+                "name":       a.get_text(strip=True),
+                "url":        link,
+                "remote":     cells[1].get_text(strip=True) or "No",
+                "adaptive":   cells[2].get_text(strip=True) or "No",
+                "test_type":  cells[3].get_text(strip=True)
             })
 
-        print(f"Page {page}: parsed {len(rows)-1} assessments")
-        time.sleep(1)  # be polite
+        print(f"Page {page}: parsed {len(rows)} items")
+        time.sleep(1)
 
-    # Now fetch detail pages for description & duration
-    print(f"\nFetching detail pages for {len(assessments)} assessments…")
-    for item in assessments:
+    # 2) Fetch detail pages for description & duration
+    print(f"\nFetching detail for {len(assessments)} assessments…")
+    for a in assessments:
         try:
-            r2 = requests.get(item["url"])
-            r2.raise_for_status()
+            r2 = requests.get(a["url"]); r2.raise_for_status()
             detail = BeautifulSoup(r2.text, "html.parser")
 
-            desc_tag = detail.select_one(".product-description")
-            item["description"] = desc_tag.get_text(strip=True) if desc_tag else ""
+            # primary description selector
+            desc = detail.select_one(".product-description")
+            text = desc.get_text(" ", strip=True) if desc else ""
 
-            dur_text = detail.find(text=lambda t: "Completion Time" in t)
-            if dur_text:
-                digits = "".join(filter(str.isdigit, dur_text))
-                item["duration_minutes"] = int(digits) if digits else None
+            # fallback #1: meta[name="description"]
+            if not text:
+                m = detail.find("meta", {"name": "description"})
+                text = m["content"].strip() if m and m.get("content") else ""
+
+            # fallback #2: meta[property="og:description"]
+            if not text:
+                og = detail.find("meta", {"property": "og:description"})
+                text = og["content"].strip() if og and og.get("content") else ""
+
+            a["description"] = text
+
+            # Completion Time → digits
+            dur = detail.find(text=lambda t: "Completion Time" in t)
+            if dur:
+                nums = "".join(ch for ch in dur if ch.isdigit())
+                a["duration_minutes"] = int(nums) if nums else None
             else:
-                item["duration_minutes"] = None
+                a["duration_minutes"] = None
 
             time.sleep(0.2)
         except Exception as e:
-            print(f"⚠️  Failed to fetch {item['url']}: {e}")
-            item["description"] = ""
-            item["duration_minutes"] = None
+            print("⚠️", a["url"], "→", e)
+            a["description"] = ""
+            a["duration_minutes"] = None
 
-    # Save to JSON
-    out_path = "data/assessments.json"
-    with open(out_path, "w", encoding="utf-8") as f:
+    # 3) Save JSON
+    with open("data/assessments.json", "w", encoding="utf-8") as f:
         json.dump(assessments, f, ensure_ascii=False, indent=2)
-
-    print(f"\n✅ Saved {len(assessments)} assessments to {out_path}")
+    print(f"\n✅ Wrote {len(assessments)} assessments to data/assessments.json")
 
 if __name__ == "__main__":
     crawl_assessments()
