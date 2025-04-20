@@ -1,17 +1,21 @@
-# data & crawling
-requests==2.31.0
-beautifulsoup4==4.12.2
+# Pin NumPy to 1.x so Faiss’s C extensions will load
+numpy<2,>=1.24.3
 
-# embeddings & search
-sentence-transformers==2.2.2
-faiss-cpu==1.7.4
-
-# web framework
-fastapi==0.95.1
-uvicorn[standard]==0.22.0
-
-# utils
+# Data handling
+pandas==2.2.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
-six==1.17.0
 tzdata==2025.2
+six==1.17.0
+
+# Crawling utilities
+requests==2.31.0
+beautifulsoup4==4.13.4
+
+# Embeddings & search
+sentence-transformers==2.2.2
+faiss-cpu==1.10.0
+
+# Web framework
+fastapi==0.95.1
+uvicorn[standard]==0.22.0
