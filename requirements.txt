@@ -1,17 +1,22 @@
- numpy<2,>=1.24.3
- pandas==2.2.3
- python-dateutil==2.9.0.post0
- pytz==2025.2
- tzdata==2025.2
- six==1.17.0
+# ─ Core libs ────────────────────────────────────────────────────────────────
+numpy<2,>=1.24.3
+pandas==2.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+six==1.17.0
 
- requests==2.31.0
- beautifulsoup4==4.13.4
+# ─ Crawling ─────────────────────────────────────────────────────────────────
+requests==2.31.0
+beautifulsoup4==4.13.4
 
- sentence-transformers==2.2.2
+# ─ HuggingFace Hub (must be <1.0.0 so cached_download still exists) ─────────
+huggingface_hub==0.13.4
+
+# ─ Embeddings & Search ──────────────────────────────────────────────────────
+sentence-transformers==2.2.2
 faiss-cpu==1.10.0
 
- fastapi==0.95.1
- uvicorn[standard]==0.22.0
-
-huggingface_hub<1.0.0,>=0.13.4
+# ─ Web Framework ───────────────────────────────────────────────────────────
+fastapi==0.95.1
+uvicorn[standard]==0.22.0
