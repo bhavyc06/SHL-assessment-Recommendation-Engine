@@ -1,9 +1,7 @@
-numpy==2.2.5
-pandas==2.2.3
-python-dateutil==2.9.0.post0
-pytz==2025.2
-six==1.17.0
-tzdata==2025.2
+# data & crawling
+requests==2.31.0
+beautifulsoup4==4.12.2
+
 # embeddings & search
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
@@ -12,3 +10,8 @@ faiss-cpu==1.7.4
 fastapi==0.95.1
 uvicorn[standard]==0.22.0
 
+# utils
+python-dateutil==2.9.0.post0
+pytz==2025.2
+six==1.17.0
+tzdata==2025.2
