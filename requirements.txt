@@ -14,5 +14,4 @@ faiss-cpu==1.10.0
  fastapi==0.95.1
  uvicorn[standard]==0.22.0
 
-+# Pin HF‑Hub so cached_download still exists
-+huggingface_hub<1.0.0,>=0.13.4
+huggingface_hub<1.0.0,>=0.13.4
