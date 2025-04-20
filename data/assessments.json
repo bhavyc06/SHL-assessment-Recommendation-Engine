@@ -1,0 +1,3458 @@
+[
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 12
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 12
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-plsql-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/oracle-weblogic-server-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 7
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/organic-chemistry-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/paint-technology-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 7
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pediatrics-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pega-development-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/perl-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/petrochemical-engineering-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 7
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/petroleum-engineering-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 12
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutical-science-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 7
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmaceutics-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 12
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pharmacology-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 12
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/php-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "CAP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/pjm-selection-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "ACP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/polymer-engineering-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-electronics-and-drives-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 15
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/power-system-engineering-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 12
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/prism-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 4
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "AEBCDP",
+    "description": "",
+    "duration_minutes": null
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 30
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 17
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 11
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 5
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 9
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 13
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "S",
+    "description": "",
+    "duration_minutes": 8
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "remote": "No",
+    "adaptive": "No",
+    "test_type": "K",
+    "description": "",
+    "duration_minutes": 10
+  }
+]
